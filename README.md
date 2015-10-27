@@ -1,2 +1,2 @@
-# Yakindu_Explorations
+# Yakindu Explorations
 Repository used while learning Yakindu Statechart Tools
