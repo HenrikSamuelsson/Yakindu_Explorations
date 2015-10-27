@@ -121,7 +121,7 @@
       <children xsi:type="notation:Shape" xmi:id="_2_ywgHy6EeW347imM4NFxg" type="StatechartTextExpression" fontName="Verdana" lineColor="4210752">
         <layoutConstraint xsi:type="notation:Bounds" xmi:id="_2_ywgXy6EeW347imM4NFxg"/>
       </children>
-      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_2_ywgny6EeW347imM4NFxg" x="10" y="10" width="610" height="316"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_2_ywgny6EeW347imM4NFxg" x="10" y="10" width="610" height="331"/>
     </children>
     <styles xsi:type="notation:DiagramStyle" xmi:id="_2_ufEXy6EeW347imM4NFxg"/>
     <edges xmi:id="_ceGlEHy7EeW347imM4NFxg" type="Transition" element="_ceFW8Hy7EeW347imM4NFxg" source="_ZntmwHy7EeW347imM4NFxg" target="_ZEZeUXy7EeW347imM4NFxg">
