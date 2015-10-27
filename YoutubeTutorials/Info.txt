@@ -1,0 +1,3 @@
+This folder holds Yakindu Statechart test projects based on Youtube tutorials presented by Prof Tom Mens.
+
+Links to these videos can be found here: http://statecharts.org/videos.html
