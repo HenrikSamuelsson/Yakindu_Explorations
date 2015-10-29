@@ -57,15 +57,15 @@
               <vertices xsi:type="sgraph:Entry" xmi:id="_u2b_cH5JEeWklJWqViJztw">
                 <outgoingTransitions xmi:id="_V0aTIH5OEeWklJWqViJztw" specification="" target="_IcRNUH5OEeWklJWqViJztw"/>
               </vertices>
-              <vertices xsi:type="sgraph:State" xmi:id="_IcRNUH5OEeWklJWqViJztw" name="idle" incomingTransitions="_V0aTIH5OEeWklJWqViJztw _MsQmYH5PEeWklJWqViJztw _OpfvIH5PEeWklJWqViJztw">
+              <vertices xsi:type="sgraph:State" xmi:id="_IcRNUH5OEeWklJWqViJztw" name="Quiet" incomingTransitions="_V0aTIH5OEeWklJWqViJztw _MsQmYH5PEeWklJWqViJztw _OpfvIH5PEeWklJWqViJztw">
                 <outgoingTransitions xmi:id="_O5SUEH5OEeWklJWqViJztw" specification="set" target="_MyWcwH5OEeWklJWqViJztw"/>
                 <outgoingTransitions xmi:id="_SGBV0H5OEeWklJWqViJztw" specification="up" target="_QYbyoH5OEeWklJWqViJztw"/>
                 <outgoingTransitions xmi:id="_gvaBEH5OEeWklJWqViJztw" specification="down" target="_QYbyoH5OEeWklJWqViJztw"/>
               </vertices>
-              <vertices xsi:type="sgraph:State" xmi:id="_MyWcwH5OEeWklJWqViJztw" specification="entry/ beep1()" name="sound1" incomingTransitions="_O5SUEH5OEeWklJWqViJztw">
+              <vertices xsi:type="sgraph:State" xmi:id="_MyWcwH5OEeWklJWqViJztw" specification="entry/ beep1()" name="Sound1" incomingTransitions="_O5SUEH5OEeWklJWqViJztw">
                 <outgoingTransitions xmi:id="_MsQmYH5PEeWklJWqViJztw" specification="after 1s" target="_IcRNUH5OEeWklJWqViJztw"/>
               </vertices>
-              <vertices xsi:type="sgraph:State" xmi:id="_QYbyoH5OEeWklJWqViJztw" specification="entry/ beep2()" name="sound2" incomingTransitions="_SGBV0H5OEeWklJWqViJztw _gvaBEH5OEeWklJWqViJztw">
+              <vertices xsi:type="sgraph:State" xmi:id="_QYbyoH5OEeWklJWqViJztw" specification="entry/ beep2()" name="Sound2" incomingTransitions="_SGBV0H5OEeWklJWqViJztw _gvaBEH5OEeWklJWqViJztw">
                 <outgoingTransitions xmi:id="_OpfvIH5PEeWklJWqViJztw" specification="after 1s" target="_IcRNUH5OEeWklJWqViJztw"/>
               </vertices>
             </regions>
