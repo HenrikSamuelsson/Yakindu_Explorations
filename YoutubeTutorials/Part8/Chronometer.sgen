@@ -6,5 +6,9 @@ GeneratorModel for yakindu::java {
 			targetProject = "Part8 - Java code generation"
 			targetFolder = "src-gen"
 		}
+		
+		feature GeneralFeatures {
+			TimerService = true
+		}
 	}
 }
