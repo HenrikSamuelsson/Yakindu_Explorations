@@ -1,0 +1,10 @@
+GeneratorModel for yakindu::java {
+
+	statechart chronometer {
+
+		feature Outlet {
+			targetProject = "Part8 - Java code generation"
+			targetFolder = "src-gen"
+		}
+	}
+}
